@@ -1,4 +1,4 @@
-public class Print_1to100_divisible_by2and3
+public class divisible_by2and3
 {
     public static void main(String[] args) 
     {    
