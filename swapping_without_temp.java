@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Swapping
+class swapping without temp
 {
   public static void main(String[] args) 
   {
